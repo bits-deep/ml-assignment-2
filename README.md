@@ -12,7 +12,7 @@ The objective of this project is to classify breast cancer biopsy samples as eit
 - **Split Ratio**: 80% Training (455 samples) and 20% Testing (114 samples saved as `test_data.csv`)
 
 ## c. Github Repository Link
-[Insert your GitHub Repository Link here]
+[https://github.com/bits-deep/ml-assignment-2.git]
 
 ## d. Models used:
 
